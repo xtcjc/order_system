@@ -24,6 +24,7 @@ npm install
 #此项目是运行在移动端的，所以在电脑打开时，需要显示在移动端，按f12选择移动端,效果更佳
 vue-resouce --save
 vue-router --save
+socket.io 实现客服端和服务器实时通信.
 #这里vue-resource是请求数据模块包，vue-router是配置路由安装的包--save是把vue-resource保存到package.json文件中
 ```
 
