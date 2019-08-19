@@ -29,3 +29,5 @@ vue-router --save
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 >>>>>>> 第一次提交
+待完善
+#当前还没实现支付功能，页面有些按钮功能需要重新设计，目前正在完善中....
